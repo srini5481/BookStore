@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/c968a584765cd15d077b4291b8d09d9b5c3f63d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2552fa1e882b1ddcb44be67fdaed85c5bb1d5af5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/androidaps/BookStore/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e8a09d657d9fbfd2cce08b799fa7e20bcdad45b">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6bd0e7d5eba2e8a87fa93b31505c195332728300/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/androidaps/BookStore/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a49b284940b68ad879feae4a9e89b5b90b564e8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/1414df2fb50df5810540d333688fd6eb43b5efc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35037f8bfe8b0be64c76836acdd033a07e3da3a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/c6523eef14a19dee0a3f5e5fe50eaa68a04f099e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97c702aadee0f4f041dc1bb5403f76431759c619/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/b2d7f7485e5786ede35065ffcb1e470c6404bd3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2b389aedcaa9f2206f2bb7fe4ac3b3236e7366b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/db27e610d53bf6592fdb6870bd6a40a71b698a3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c4951ac8f7bdb6a3a3955c07ae748fc2954b05b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_70d356d771529dbba1cc30cdecde9848288e6c59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/ecd1f544239e9adec6354cd657edd20397f98e55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b16829c17634e6cec65b9668b0cc83486b8ca3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_aa54445f9777aaee2a5ab234c5fcbc206fd79518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/b5ba5e812afafa97c1173d350aafa76d88957da6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93469e3dc6eab32b7c1e18b80ccae21d0f779c3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/e264c59412e9d3f5ba44f9e11999039769b73aba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ddbbffff00ef7a51097a041f6a4c0fe367d7a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/09eee401476d317e3bae64255a0b9f816ae108f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da53f4d8f347ce45b9d554c5a48b53457cad0858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qze713/.android/build-cache/31c86e5a3afe1bdb3bec5869deddce844f06845d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/qze713/androidaps/BookStore/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7050e6c47f4f647ce92374963d06e5d59a0935f6/classes.dex" />
+    </item>
+
+</items>
